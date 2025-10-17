@@ -7,10 +7,11 @@ Web
 - Zahradníček - Text footer
 
 Návod ke spuštění: Otevřete se web v prohlížeči
-Příklad kódu: <section>
-                  <article>
-                      <p> Ahoj Githube </p>
-                  </article>
-              </section>
+Příklad kódu: 
+<section>
+     <article>
+        <p> Ahoj Githube </p>
+     </article>
+</section>
 
   
