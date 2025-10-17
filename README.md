@@ -8,10 +8,8 @@ Web
 
 Návod ke spuštění: Otevřete se web v prohlížeči
 Příklad kódu: 
-<section>
-     <article>
-        <p> Ahoj Githube </p>
-     </article>
-</section>
+<h1> Main text </h1>
+<p> Ahoj GitHube </p>
+
 
   
